@@ -1,4 +1,4 @@
-import express from 'express';
+const express = require('express');
 
 //Express setup
 const app = express();
